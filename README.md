@@ -25,6 +25,7 @@ If you would like to help promote this license:
 Our current evANGELists:
 
  * James Vasile [https://github.com/jvasile/coal](https://github.com/jvasile/coal)
+ * Daniel Schultz [https://github.com/slifty/opened-captions](https://github.com/slifty/opened-captions)
 
 ## FAQ
 
