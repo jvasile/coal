@@ -10,7 +10,7 @@ You may use this codebase under the terms of any OSI-approved license.
 
  * There has never been a more open source license!
  * Compatible with EVERY license!
- * License is simultaneously the shortest and longest open source license!
+ * Simultaneously the shortest and longest open source license!
  * This license ends licensing arguments! No more rabbit-holing on which license to choose!
 
 ## Evangelize!
