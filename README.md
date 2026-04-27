@@ -26,6 +26,7 @@ Our current evANGELists:
 
  * James Vasile [https://github.com/jvasile/coal](https://github.com/jvasile/coal)
  * Daniel Schultz [https://github.com/slifty/opened-captions](https://github.com/slifty/opened-captions)
+ * Laurian Gridinoc [https://github.com/Laurian/rlm-langgraph](https://github.com/Laurian/rlm-langgraph)
 
 ## FAQ
 
