@@ -19,7 +19,8 @@ If you would like to help promote this license:
 
  1. Use the license on a public repo.
  2. Submit a PR to this repo adding yourself and your COAL-licensed project to the list of evangelists below.
- 3. TELL YOUR FRIENDS!
+ 3. Star this repo.  I don't know what stars do, but they seem important.
+ 4. TELL YOUR FRIENDS!
 
 Our current evANGELists:
 
