@@ -36,7 +36,7 @@ There has never been a license that conveyed as much OSI Approval as this one.
 If your main criterion for a license is maximizing OSI Approval, THIS IS THE
 LICENSE FOR YOU!
 
- * Should we ask OSI if they approve?
+ * Should we ask [OSI](https://osi.org) if they approve?
 
 No need!  It's already as full of OSI Approval as it can get!
 
