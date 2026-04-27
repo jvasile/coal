@@ -3,7 +3,7 @@
 This is the most OSI-Approved license in history.  Here it is in its entirety:
 
 ```
-You may do things with this codebase under the terms of any OSI-approved license.
+You may use this codebase under the terms of any OSI-approved license.
 ```
 
 ## Main features of the COAL License:
